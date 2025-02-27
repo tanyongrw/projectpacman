@@ -1,2 +1,0 @@
-Player: tan
-Score: 0
