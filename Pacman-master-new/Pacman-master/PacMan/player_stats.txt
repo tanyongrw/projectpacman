@@ -1,0 +1,6 @@
+dear 100 500
+hong 290 290
+jaa 0 0
+nut 0 0
+tan 0 1600
+tanyong 0 0
